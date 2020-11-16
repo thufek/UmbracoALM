@@ -9,5 +9,6 @@ namespace UmbracoALM
     {
         public int Age { get; set; }
         public string Name { get; set; }
+        public bool IsEmployed { get; set; }
     }
 }
